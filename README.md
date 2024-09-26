@@ -1,4 +1,4 @@
-# Classes for computational geometry
+# C++ classes for Computational Geometry
 
 Some classes and utility functions for general computational geometry
 
